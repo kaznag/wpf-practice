@@ -1,0 +1,10 @@
+﻿<Application
+    x:Class="Kaznag.WpfPractice.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Kaznag.WpfPractice"
+    Exit="OnApplicationExit"
+    Startup="OnApplicationStartup"
+    StartupUri="Views/MainWindow.xaml">
+    <Application.Resources />
+</Application>
