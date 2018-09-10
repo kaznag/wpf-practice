@@ -7,4 +7,5 @@ This is a practice project.
 
 ## Functions
 
-[Single instance application](docs/SingleInstanceApplication.md)
+[Single instance application](docs/SingleInstanceApplication.md)  
+[How to close window](docs/CloseWindow.md)  
