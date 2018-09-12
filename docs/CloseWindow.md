@@ -29,7 +29,7 @@ When call ShowDialog method.
         <ei:ChangePropertyAction
             PropertyName="DialogResult"
             TargetObject="{Binding RelativeSource={RelativeSource AncestorType=Window}}"
-            Value="True" />
+            Value="[True/False]" />
     </i:EventTrigger>
 </i:Interaction.Triggers>
 ```
