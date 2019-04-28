@@ -3,6 +3,7 @@ This is a practice project.
 
 ## NuGet packages
 
+- Microsoft.Xaml.Behaviors
 - Prism.Core
 
 ## Functions
